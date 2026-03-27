@@ -11,7 +11,7 @@ PC with Linux operating system
 3]	Run the program using build and run.
 4]	Prime number is given as input. If it is not a prime number then wrong input is displayed. 5] Then a message is entered.
 6]	The encrypted form of the message is displayed.
-7]	The decrypted form is also displayed as final output. 8] Thus the output is obtained.
+7]	The decrypted form is also displayed as final output. 8] Thus the output is obtained
 
 # PROGRAM:
 #include<stdio.h> #include<stdlib.h> #include<math.h> #include<string.h>
@@ -108,6 +108,8 @@ printf("%c",m[i]);
 
 
 # OUTPUT:
+<img width="1920" height="1080" alt="212222060192_E D" src="https://github.com/user-attachments/assets/6bc3352a-7356-4dd0-be36-e8a93315f0df" />
+
 
  
 
